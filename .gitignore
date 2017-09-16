@@ -37,3 +37,9 @@ examples/AsYouType/.DS_Store
 examples/.DS_Store
 .DS_Store
 PhoneNumberKit/.DS_Store
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+*.framework.zip
